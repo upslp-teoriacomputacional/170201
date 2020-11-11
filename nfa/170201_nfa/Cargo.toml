@@ -1,0 +1,8 @@
+[package]
+name = "afd"
+version = "0.1.0"
+authors = ["JuanH13 <170201@upslp.edu.mx>"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
