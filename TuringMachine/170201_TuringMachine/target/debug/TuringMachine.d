@@ -1,1 +1,0 @@
-C:\Users\JuanHmtz\Documents\Teoría\ Computacional\170201\TuringMachine\170201_TuringMachine\target\debug\TuringMachine.exe: C:\Users\JuanHmtz\Documents\Teoría\ Computacional\170201\TuringMachine\170201_TuringMachine\src\main.rs
