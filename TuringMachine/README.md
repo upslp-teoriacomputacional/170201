@@ -37,7 +37,7 @@ Dentro de Rust se puede instanciar a la librería Regex. Ésta proporciona una b
 Lo siguiente fue realizar las modificaciónes necesarias al programa AFD antes realizado.
 
 
-### NFA.
+### TM.
 
 •	*Cargo.TOML*
 
